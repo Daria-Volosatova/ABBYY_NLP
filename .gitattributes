@@ -1,0 +1,11 @@
+models/ptb.char filter=lfs diff=lfs merge=lfs -text
+data/dev_con.txt filter=lfs diff=lfs merge=lfs -text
+data/test_con.txt filter=lfs diff=lfs merge=lfs -text
+models/ptb.char/fields filter=lfs diff=lfs merge=lfs -text
+models/ptb.char/model filter=lfs diff=lfs merge=lfs -text
+models/glove.6B.100d.txt filter=lfs diff=lfs merge=lfs -text
+data/dev_dep.txt filter=lfs diff=lfs merge=lfs -text
+data/test_dep.txt filter=lfs diff=lfs merge=lfs -text
+data/train_con.txt filter=lfs diff=lfs merge=lfs -text
+data/train_dep.txt filter=lfs diff=lfs merge=lfs -text
+models/en_charlstm_dev.93.61.pt filter=lfs diff=lfs merge=lfs -text

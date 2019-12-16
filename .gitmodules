@@ -1,0 +1,6 @@
+[submodule "kitaev/self-attentive-parser"]
+	path = kitaev/self-attentive-parser
+	url = https://github.com/nikitakit/self-attentive-parser.git
+[submodule "dozat/biaffine-parser"]
+	path = dozat/biaffine-parser
+	url = https://github.com/zysite/biaffine-parser.git
